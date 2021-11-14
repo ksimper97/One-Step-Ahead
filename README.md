@@ -5,7 +5,7 @@ This project was to learn the python arcade library.
 
 The player's goal is to reach the doorway while avoiding obstacles. All player inputs are taken before the sprite begins movements. The player has to accurately know how many spaces he must move to avoid obstacles while still reaching the exit.
 
-[Software Demo Video](https://youtu.be/JQCOq77e550)
+[Software Demo Video](https://youtu.be/jXJCpkjebqA)
 
 # Development Environment
 Written with:
